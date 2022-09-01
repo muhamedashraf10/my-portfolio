@@ -29,7 +29,7 @@ const Portfolio = () => {
       demo: "https://github.com/MaSMas0/ITI-Final-Project",
     },
     {
-      name: "Examination System | Web Application",
+      name: "Examination System | WebSite ",
       image: img4,
       linkGit: "https://github.com/muhamedashraf10/Examination-system",
       demo: "https://github.com/muhamedashraf10/Examination-system",
