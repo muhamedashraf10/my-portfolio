@@ -1,5 +1,5 @@
 import React from "react";
-import cv from "../../image/cv.pdf";
+import cv from "../../image/MuhamedAshrafCV.pdf";
 const CV = () => {
   return (
     <div className="cv">
