@@ -1,7 +1,7 @@
 import React from "react";
 import "./Footer.css";
 import { FaFacebookF, FaLinkedinIn } from "react-icons/fa";
-import { FiInstagram, FiGithub } from "react-icons/fi";
+import { FiInstagram, FiGithub, FiYoutube } from "react-icons/fi";
 const Footer = () => {
   return (
     <footer>
@@ -33,17 +33,26 @@ const Footer = () => {
         </li>
       </ul>
       <div className="footer__social">
-        <a href="https://facebook.com">
+        <a href="https://www.facebook.com/elmagik.toshka" target="_blank">
           <FaFacebookF />
         </a>
-        <a href="https://instagram.com">
+        <a href="https://www.instagram.com/__muhamedashraf/" target="_blank">
           <FiInstagram />
         </a>
-        <a href="https://twitter.com">
+        <a
+          href="https://www.linkedin.com/in/muhamed-ashraf-052a64242/"
+          target="_blank"
+        >
           <FaLinkedinIn />
         </a>
-        <a href="https://twitter.com">
+        <a href="https://github.com/muhamedashraf10" target="_blank">
           <FiGithub />
+        </a>
+        <a
+          href="https://www.youtube.com/channel/UCbK_dOMfj1Rbd92BSVKG-Hg"
+          target="_blank"
+        >
+          <FiYoutube />
         </a>
       </div>
       <div className="copy">
