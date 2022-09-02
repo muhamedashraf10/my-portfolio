@@ -11,7 +11,7 @@ const Services = () => {
       <div className="container services__container">
         <div className="service">
           <div className="service__head">
-            <h3>Ui/Ux Design</h3>
+            <h3>Front-End</h3>
           </div>
           <ul className="service__list">
             <li>
@@ -42,7 +42,7 @@ const Services = () => {
         </div>
         <div className="service">
           <div className="service__head">
-            <h3>Ui/Ux Design</h3>
+            <h3>Back-End</h3>
           </div>
           <ul className="service__list">
             <li>
@@ -73,7 +73,7 @@ const Services = () => {
         </div>
         <div className="service">
           <div className="service__head">
-            <h3>Ui/Ux Design</h3>
+            <h3>Cross Platform Mobile</h3>
           </div>
           <ul className="service__list">
             <li>
